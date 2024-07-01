@@ -1,7 +1,7 @@
 let info = {
   name: "Nipun Agarwal",
   logo_name: "Nipun",
-  flat_picture: require("./src/assets/potrait.png"),
+  flat_picture: require("./src/assets/withoutbg.png"),
   config: {
     use_cookies: true,
     navbar: {
