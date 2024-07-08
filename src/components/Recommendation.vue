@@ -40,7 +40,7 @@
             data-aos-mirror="true"
           >
             <span>
-              – {{ d.author }}, {{ d.position }}, {{ d.company }},
+              {{ d.author }} {{ d.position }} {{ d.company }}
               {{ d.location }}</span
             >
           </div>
