@@ -346,9 +346,7 @@ let info = {
         {
           img: require("./src/assets/portfolio/clumpr/portfolio2.png"),
         },
-        {
-          img: require("./src/assets/portfolio/clumpr/two.png"),
-        },
+     
       ],
       technologies: ["Vue.js", "Javascript"],
       category: "Website",
