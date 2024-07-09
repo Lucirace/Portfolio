@@ -53,7 +53,7 @@
             <button class="btn" @click.prevent="showMore">{{ showBtn }}</button>
           </div>
         </v-tab>
-
+<!--
         <v-tab title="Design">
           <div class="row">
             <div
@@ -112,6 +112,7 @@
           </div>
           <br />
         </v-tab>
+        -->
       </vue-tabs>
     </div>
     <transition name="modal">
