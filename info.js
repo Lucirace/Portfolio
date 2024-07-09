@@ -319,9 +319,7 @@ let info = {
         {
           img: require("./src/assets/portfolio/smit/paytmLite3.png"),
         },
-        {
-          img: require("./src/assets/portfolio/smit/four.png"),
-        },
+     
       ],
       technologies: [
         "React",
