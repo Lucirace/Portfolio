@@ -259,7 +259,7 @@ let info = {
           img: require("./src/assets/portfolio/post/hive3.png"),
         },
         {
-          img: require("./src/assets/portfolio/post/hive3.png"),
+          img: require("./src/assets/portfolio/post/hive4.png"),
         },
         {
           img: require("./src/assets/portfolio/post/hive5.png"),
