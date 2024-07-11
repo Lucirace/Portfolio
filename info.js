@@ -209,7 +209,7 @@ let info = {
       category: "Website",
       date: "June, 2024 - Present",
       github: "https://github.com/Lucirace/BharatWallet",
-      visit: "https://github.com/Lucirace/BharatWallet",
+      visit: "http://bharatwallet.nipunagarwal.online",
       description:
         "I developed a digital wallet with peer-to-peer money transfer capabilities, using NextAuth for session-based authentication and Recoil for state management. I built an Express bank webhook server to simulate adding funds and implemented Docker and GitHub Actions for CI/CD, deploying to an Nginx reverse proxy. The deployment was directed to a DNS with an SSL certificate. I integrated Turborepo and used an AWS EC2 instance with Docker Hub. Prisma ORM was utilized for database handling and managing session transactions. ",
     },
