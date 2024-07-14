@@ -392,23 +392,23 @@ let info = {
       title: "Guituna - Mockup Design",
       pictures: [
         {
-          img: require("./src/assets/designs/coursera1/MoodBoard.png"),
+          img: require("./src/assets/designs/coursera1/1.png"),
           title: "MoodBoard",
         },
         {
-          img: require("./src/assets/designs/coursera1/Mockups 1.png"),
+          img: require("./src/assets/designs/coursera1/2.png"),
           title: "Mockups 1",
         },
         {
-          img: require("./src/assets/designs/coursera1/Mockups 2.png"),
+          img: require("./src/assets/designs/coursera1/3.png"),
           title: "Mockups 2",
         },
         {
-          img: require("./src/assets/designs/coursera1/App Elements.png"),
+          img: require("./src/assets/designs/coursera1/4.png"),
           title: "App Elements",
         },
       ],
-      technologies: ["XD", "Illustrator"],
+      technologies: ["Canva", "Illustrator"],
       category: "Visual Design",
       github: "",
       date: "May, 2020 - Jun, 2020",
@@ -421,19 +421,23 @@ let info = {
       title: "Pantree - Mockup Design",
       pictures: [
         {
-          img: require("./src/assets/designs/pantree/MoodBoard.png"),
+          img: require("./src/assets/designs/pantree/3.png"),
           title: "Moodboard",
         },
         {
-          img: require("./src/assets/designs/pantree/1.png"),
+          img: require("./src/assets/designs/pantree/4.png"),
           title: "Mockups 1",
         },
         {
-          img: require("./src/assets/designs/pantree/2.png"),
+          img: require("./src/assets/designs/pantree/5.png"),
           title: "Mockups 2",
         },
+         {
+          img: require("./src/assets/designs/pantree/6.png"),
+          title: "Mockups 3",
+        },
       ],
-      technologies: ["XD", "Illustrator"],
+      technologies: ["Canva", "Illustrator"],
       category: "Visual Design",
       github: "",
       date: "May, 2020 - July, 2020",
@@ -446,31 +450,15 @@ let info = {
       title: "Bunder - MVP Proposal",
       pictures: [
         {
-          img: require("./src/assets/designs/bunder/Moodboard.png"),
+          img: require("./src/assets/designs/bunder/Logo.png"),
           title: "Moodboard",
         },
         {
-          img: require("./src/assets/designs/bunder/Mockup 1.png"),
+          img: require("./src/assets/designs/bunder/TBIU Logo.png"),
           title: "Mockup 1",
         },
-        {
-          img: require("./src/assets/designs/bunder/Mockup 2.png"),
-          title: "Mockup 2",
-        },
-        {
-          img: require("./src/assets/designs/bunder/Mockup 3.png"),
-          title: "Mockup 3",
-        },
-        {
-          img: require("./src/assets/designs/bunder/Market Research 1.png"),
-          title: "Market Research 1",
-        },
-        {
-          img: require("./src/assets/designs/bunder/Market Research 2.png"),
-          title: "Market Research 2",
-        },
       ],
-      technologies: ["XD", "Illustrator"],
+      technologies: ["Canva", "Illustrator"],
       category: "Visual Design",
       github: "",
       date: "May, 2020 - July, 2020",
