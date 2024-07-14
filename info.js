@@ -15,7 +15,7 @@ let info = {
       "https://www.linkedin.com/in/nipunagarwal1144?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd9AM69hvRNCE4Q%2FkQRhlxg%3D%3D",
     github: "https://github.com/Lucirace",
     googledev: "https://g.dev/nipun_agarwal",
-    resume: "  ",
+    resume: "https://drive.google.com/file/d/1cDjb_DvywhszHBJ9T7PYT_MSiUzj_p6y/view?usp=sharing",
     twitter: "https://twitter.com/nipunAgarwal404",
     instagram: "https://www.instagram.com/nipunagarwal._/?next=%2F",
   },
