@@ -8,7 +8,7 @@
         >
           <span
             >Contact through my
-            <a href="mailto:agarwalnipun19802@gmail.com">Email</a>
+            <a href="mailto:nipuntechid10t@gmail.com">Email</a>
           </span>
         </div>
 
