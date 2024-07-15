@@ -442,7 +442,7 @@ let info = {
       date: "August, 2022",
       visit: "",
       description: "Created an informative and visually appealing brochure for a mentorship program, highlighting key benefits, program structure, and success stories. The brochure effectively communicated the value of mentorship, attracting participants and enhancing program engagement.",
-        
+    },
     {
       name: "Logo",
       title: "Designs",
