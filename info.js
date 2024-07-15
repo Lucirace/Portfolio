@@ -388,83 +388,80 @@ let info = {
   ],
   portfolio_design: [
     {
-      name: "Guituna",
-      title: "Guituna - Mockup Design",
+      name: "Posters",
+      title: "Designs",
       pictures: [
         {
           img: require("./src/assets/designs/coursera1/1.png"),
-          title: "MoodBoard",
+          title: "Yoga Day",
         },
         {
           img: require("./src/assets/designs/coursera1/2.png"),
-          title: "Mockups 1",
+          title: "Festival",
         },
         {
           img: require("./src/assets/designs/coursera1/3.png"),
-          title: "Mockups 2",
+          title: "Festival",
         },
         {
           img: require("./src/assets/designs/coursera1/4.png"),
-          title: "App Elements",
+          title: "Magazine Cover Page",
         },
       ],
       technologies: ["Canva", "Illustrator"],
-      category: "Visual Design",
+      category: "Design",
       github: "",
-      date: "May, 2020 - Jun, 2020",
+      date: "May, 2022",
       visit: "",
-      description:
-        "Guituna is a simple, lightweight and intuitive guitar tuner, that provides different modes of guitars based on your usage. You can either select a specific string to tune, or free tune your guitar based on the frequency shown on the meter. Guituna also provides a handful of different tunings to help explore various tuning paradigms. There is also an array of settings that can be configured to your liking based on the devices you're using. <br/><br/>The interface aims to highlight the use of a minimal design and providing just enough controls to make for a great tuner, while exposing various possibilities of guitarists to explore.",
+      description: "Designed engaging posters for my college's Alumni Organization and Entrepreneurship Development Cell, focusing on networking, community building, and fostering innovation. These visually compelling posters helped drive event participation and strengthen organizational presence on campus.",
     },
     {
-      name: "Pantree",
-      title: "Pantree - Mockup Design",
+      name: "Brochure",
+      title: "Brochure Design",
       pictures: [
         {
           img: require("./src/assets/designs/pantree/3.png"),
-          title: "Moodboard",
+          title: "",
         },
         {
           img: require("./src/assets/designs/pantree/4.png"),
-          title: "Mockups 1",
+          title: "",
         },
         {
           img: require("./src/assets/designs/pantree/5.png"),
-          title: "Mockups 2",
+          title: "",
         },
          {
           img: require("./src/assets/designs/pantree/6.png"),
-          title: "Mockups 3",
+          title: "",
         },
       ],
       technologies: ["Canva", "Illustrator"],
       category: "Visual Design",
       github: "",
-      date: "May, 2020 - July, 2020",
+      date: "August, 2022",
       visit: "",
-      description:
-        "Pantree is a recipiece finding and recommending application. It is often the case that you have run to your closest grocery store just to pick up one item that is missing in your kitchen. Pantree keeps a track of all your ingredients, and suggests recipes based on your meal preferences and past recipes. <br/><br/> The goal of the interface is to keep it similar to various recipe/food apps to reduce the learning required by the user, but also provide a smooth interface for users to seemlessly browse through recipes and ingredients.",
-    },
+      description: "Created an informative and visually appealing brochure for a mentorship program, highlighting key benefits, program structure, and success stories. The brochure effectively communicated the value of mentorship, attracting participants and enhancing program engagement.",
+        
     {
-      name: "Bunder",
-      title: "Bunder - MVP Proposal",
+      name: "Logo",
+      title: "Designs",
       pictures: [
         {
           img: require("./src/assets/designs/bunder/Logo.png"),
-          title: "Moodboard",
+          title: "Event Logo",
         },
         {
           img: require("./src/assets/designs/bunder/TBIU Logo.png"),
-          title: "Mockup 1",
+          title: "College Organization Logo",
         },
       ],
       technologies: ["Canva", "Illustrator"],
       category: "Visual Design",
       github: "",
-      date: "May, 2020 - July, 2020",
+      date: "October, 2022",
       visit: "",
-      description:
-        "Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them. Our aim is two-fold - Co-existing and Collaboration. The former is executed by providing a platform for communities that are geographically positioned in the same proximity (Housing societies, Dorms, Apartment Complexes) to have and share data (exact apartment addresses, phone number, apartment housing rules, individuals tested positive for COVID-19) in an exclusive platform. The latter is to give these people in the community the ability to carry out a task you are physically or remotely unable to do; with dignity and ease.",
+      description: "Designed distinctive logos for a major event and an incubator organization, capturing their unique identities and values. These logos enhanced brand recognition and created a lasting visual impact, contributing to the success and professional image of both initiatives.",
     },
   ],
   recommendations: [
