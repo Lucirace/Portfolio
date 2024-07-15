@@ -389,7 +389,7 @@ let info = {
   portfolio_design: [
     {
       name: "Posters",
-      title: "Designs",
+      title: "Poster Designs",
       pictures: [
         {
           img: require("./src/assets/designs/coursera1/1.png"),
@@ -445,7 +445,7 @@ let info = {
     },
     {
       name: "Logo",
-      title: "Designs",
+      title: "Logo Designs",
       pictures: [
         {
           img: require("./src/assets/designs/bunder/Logo.png"),
