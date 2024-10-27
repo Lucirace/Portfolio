@@ -19,89 +19,31 @@ let info = {
     twitter: "https://twitter.com/nipunAgarwal404",
     instagram: "https://www.instagram.com/nipunagarwal._/?next=%2F",
   },
-  education: [
+ education: [
     {
-      name: "Indiana University Bloomington",
-      place: "USA",
-      date: "Aug, 2019 - May, 2021",
-      degree: "Masters in Computer Science",
-      gpa: "3.7/4.0",
-      description:
-        "Currently pursuing my Master's in Computer Science, while specializing in the field of Artificial Intelligence and Machine Learning.",
-      skills: [
-        "Artificial Intelligence",
-        "Software Engineering",
-        "Algorithms",
-        "Computer Vision",
-        "Music Data Mining",
-        ,
-        "OS",
-      ],
-    },
-    {
-      name: "Manipal Institute of Technology",
+      name: "University Institute of Engineering Technology Panjab University Chandigarh",
       place: "India",
-      date: "Aug, 2015 - July, 2019",
-      degree: "Bachelors in Computer and Communication",
-      gpa: "8.0/10.0",
+      date: "Dec, 2021 - June, 2025",
+      degree: "Bachelors in Electronics and Communication Engineering",
       description:
-        "Graduated from Manipal Institute of Technology, Manipal with a bachelors degree in Computer and Communications Engineering.",
+        "Undergraduate from UIET Panjab University with a bachelors degree in Electronics and Communications Engineering.",
       skills: [
-        "AI",
-        "Neural Netwroks",
-        "Data Mining",
-        "Computer Vision",
-        "Pattern Recognition",
-        "HCI",
-        "Software Engineering",
+        "Micro Controllers",
+        "Computer Networks",
+        "Signal System",
+        "Digital Design",
+        "C & Assembly Programming",
       ],
     },
   ],
   experience: [
     {
-      name: "Cyberinfrastructure for Network Science Center",
-      place: "Bloomington, Indiana",
-      date: "Jun, 2020 - Present",
-      position: "Research Assistant; Full Stack Developer",
-      description:
-        "Worked as a Software Developer for the Human BioMolecular Atlas Program (funded by the NIH), building innovative visualization tools to envision large biomedical datasets.",
-      skills: ["Angular", "Node.js", "Vega", "Shell", "Typescript"],
-    },
-    {
-      name: "Skylark Drones",
-      place: "Bangalore, India",
-      date: "Jan, 2019 - Jun, 2021",
-      position: "Full Stack Web Developer",
-      description:
-        "Worked as a full stack web developer, implementing various features and fixing bugs for Skylark Drones’ central management system called Operations Portal and Data Mining Server.",
-      skills: ["MongoDB", "Flask", "VueJS", "NGINX"],
-    },
-    {
-      name: "Hridayam Soft Solutions",
-      place: "Mumbai, India",
-      date: "May, 2018 - Jun, 2018",
-      position: "Computer Vision Engineer",
-      description:
-        "Scripted an algorithm for extracting information (such as date, invoice number etc.) from scanned images of invoices, built a web interface for using the former mentioned machine.",
-      skills: ["Python", "OpenCV", "PyTesseract", "AngularJS", "NodeJS"],
-    },
-    {
-      name: "Elementail Labs",
-      place: "Mumbai, India",
-      date: "May, 2017 - July, 2017",
-      position: "Full Stack Web Developer",
-      description:
-        "Implemented various contracts and deployed them on the upcoming blockchain technology - Ethereum, while also working as a MEAN stack web developer for Elemential Labs’ website.",
-      skills: ["MongoDB", "AngularJS", "NodeJS", "ExpressJS"],
-    },
-    {
-      name: "Viteos Capital Market Services s",
-      place: "Mumbai, India",
-      date: "May, 2016 - July, 2016",
-      position: "Software Developer",
-      description:
-        "Evaluated technologies, and building proof of concept/prototype solutions for trade processing and mathematical model based evaluations, while working in the software development team.",
-      skills: ["C#", "C++", "Visual Studio"],
+      name: "Mindpeers Organization",
+      place: "New Delhi, India",
+      date: "August, 2024 - November, 2024",
+      position: "Backend Developer Intern",
+      description: "Found bugs on the website, Created a JSON from .csv using the Javascript function, Wrote RESTful APIs (Express.js, Node.js) using Mongoose schema with validation functions, Improved the response time of queries of Graph APIs by making them efficient.",
+      skills: ["Node.js", "MongoDB", "React.js", "Graph APIs", "Javascript"],
     },
   ],
   skills: [
