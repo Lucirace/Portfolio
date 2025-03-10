@@ -245,7 +245,7 @@ let info = {
       category: "Website",
       date: "March, 2024",
       github: "https://github.com/Lucirace/EdgeInk-BlogWebsite",
-      visit: "https://blog-website-steel-eight.vercel.app/signup",
+      visit: "https://blog-website-steel-eight.vercel.app",
       description:
         "I created a serverless blog application using Cloudflare, implementing JWT for authentication, Workers with Wrangler CLI, Zod for input validation, and Prisma Accelerate for connection pooling. The application features a rich-text editor for posting and viewing blogs with estimated read time. I also constructed an NPM package, used Hono for managing RESTful APIs, and stored data using Prisma ORM.",
     },
